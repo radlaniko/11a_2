@@ -1,0 +1,28 @@
+Cellaalapú hálózat kialakulásának oka frekvenciákkal való gazdálkodás (kevés frekvencia, szűk frekvencia taromány
+ áll egy-egy szolgáltató rendelkezésére ).
+
+Területalapú felosztás, ezek a cellák. Két szomszédos cellában nem használhatnak azonos frekvenciát, de nem szomszédos
+cellákban már igen.
+
+Az egyes technológiai mérföldköveket (lényeges újításokat) generációknak nevezik.
+
+Értelmezési tartomány az x tengely (időt jelent általában) értéktartománya: 
+időpillanat értékek12.30-12.45 értékei
+
+
+Értékkészlet: azok az értékek amit mérek (ezt műszerrel megjelenítem), y tengely
+
+Analóg jel: amikor az értelmezési tartományon belül (x tengely egy része), 
+bármilyen értéket felvehet (y tengelyen). Folytonos jel (szinusz jel)
+
+Diszkrét jel: amikor az értelmezési tartomány meghatározott értékeihez tartozó értékeket kapok.
+Pl: mindig csak az egész számokhoz tartozó értékek: 1s, 2s, 3s,4s-hoz tartozó függvény érték.
+Mintavételezés. Csak bizonyos időpontokban olvasom le, hogy a műszerem milyen értéket mutat.
+
+Kvantálás: meghatározott értékeket vehet fel az értékkészlet, azaz függvényem, a mérő műszeremen meghatározott
+értékeket mérhetek. A köztes értékek átkonvertálódnak, vagy közelítik a legközelebbi megengedett értékkel
+
+Digitalizálás: amikor a kapott diszkrét kvantált jelhez egy kódtáblázat alapján egy kódot rendelek. pl: 14V -> 1110
+
+
+1. generációs mobiltelefonok:  

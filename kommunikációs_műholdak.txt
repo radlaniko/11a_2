@@ -1,0 +1,28 @@
+Műhold: nemcsak visszaveri a vett jelet, azt erősíti is. (szemben a Holddal és meteorológiai 
+műholdakkal)
+Transzponder(ismétlő) eszközök vannak, mikrohullámú ismétlők.
+Ezek a transzponderek a frekvencia tartomány, azaz spektrum, egy szeletét veszik, azt felerősítik 
+és egy másik frekvencia - tartományban verik vissza (az interferencia, a zavarás elkerülése miatt).
+
+Az égitestekre vonatkozó Kepler törvények a műholdakra is érvényesek, ezek alapján, minél távolabb van 
+a keringési középpontjától a műhold, annál hosszabb a keringési periódusa.
+A föld felszínéhez közeli műholdak gyorsan keringenek, kb. 90 perc a periódus idejük, ennyi idő alatt 
+megkerülik a földet. Ezért ezekből sok kell, hogy a lefedettséget biztosítsák.
+pl.: 358000km-es magasságban 24 óra a keringési idő, 384000km magasságban 1 hónap (a Hold távolsága).
+
+A műhold magasságát továbbá befolyásolja az is, hogy a Van Allen öveken kívüli magasságokban 
+helyezhetők el, mert a Van Allen öveket alkotó töltéssel rendelkező részecskék tönkreteszik.
+
+Geostacionárius műholdak (Geo), a földtől legtávolabb elhelyezkedő műholdak. Ők a föld adott pontja 
+(ez az egyenlítő egy pontja) fölött "állnak", műhold keringési ideje, megegyezik a föld forgási 
+idejével.
+
+Egy műholdon körülbelül 40 transzponder van és mindegyiknek 80MHz a sávszélessége.
+Hajlított cső effektus: a műhold a sávszélességében vett jelet felerősíti és egy másik frekvencia 
+tartományban sugározza vissza a földre.
+
+Ugyanúgy megtalálható a műholdaknál az időosztásos és frekvencia osztásos multiplexelés.
+Frekvencia osztás: az egyes transzponderekhez fixen egy-egy frekvencia tartomány tartozott.
+Időosztásos: transzpondereket időszeletekre osztják, amelyeket felváltva használhat több felhasználó.
+
+      
